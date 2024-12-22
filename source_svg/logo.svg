@@ -1,0 +1,10 @@
+<svg width="40" height="30" viewBox="0 0 40 30" xmlns="http://www.w3.org/2000/svg">
+  <!-- 상단 네모 -->
+  <rect x="0" y="0" width="40" height="6" fill="white"/>
+  
+  <!-- 중간 네모 -->
+  <rect x="0" y="12" width="40" height="6" fill="white"/>
+  
+  <!-- 하단 네모 -->
+  <rect x="0" y="24" width="40" height="6" fill="white"/>
+</svg>
